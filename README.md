@@ -7,12 +7,7 @@ A project submitted by
 
 Sahil Sharma (20BCE10408-Bhopal)
 
-
-
 A Data Analytics Project that uses Tableau for Visualizations.
-To see the tableau for visualization of the project is at this Github Repository: https://github.com/NIRANJAN-K-DESHMUKH/Amazon-Cell-Phone-Reviews.git
-
-
 
 Summary- 
 The Amazon Mobile Phone Reviews project analyzes customer reviews of mobile phones on Amazon to extract valuable insights. It collects and preprocesses a dataset of reviews, applies data analytics techniques like sentiment analysis and text mining to understand customer feedback and preferences. The project also utilizes data visualization to present the findings effectively. The output includes a comprehensive report with analysis results, customer sentiments, prevalent themes, and recommendations. This information helps businesses make data-driven decisions to enhance their product offerings and improve customer satisfaction in the competitive mobile phone market.
