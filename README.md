@@ -5,13 +5,7 @@ Smartbridge - Data Analytics Externship (Guided Project)
 Team Member - 
 A project submitted by
 
-AKSHAT SINGH (20BCG10017 - BHOPAL)
-
-INSHA FATIMA (20BEE0372 - VELLORE)
-
-ADEEBA RASHID (20BAI10107 - BHOPAL)
-
-DESHMUKH NIRANJAN KHUSHAVANTRAO (20BCT0220 - VELLORE)
+Sahil Sharma (20BCE10408-Bhopal)
 
 
 
@@ -19,8 +13,6 @@ A Data Analytics Project that uses Tableau for Visualizations.
 To see the tableau for visualization of the project is at this Github Repository: https://github.com/NIRANJAN-K-DESHMUKH/Amazon-Cell-Phone-Reviews.git
 
 
-
-Demo Video Link- https://drive.google.com/file/d/127p7n23b4AS741xh-6lK99sgkrcLc1e9/view?usp=drive_link
 
 Summary- 
 The Amazon Mobile Phone Reviews project analyzes customer reviews of mobile phones on Amazon to extract valuable insights. It collects and preprocesses a dataset of reviews, applies data analytics techniques like sentiment analysis and text mining to understand customer feedback and preferences. The project also utilizes data visualization to present the findings effectively. The output includes a comprehensive report with analysis results, customer sentiments, prevalent themes, and recommendations. This information helps businesses make data-driven decisions to enhance their product offerings and improve customer satisfaction in the competitive mobile phone market.
@@ -44,5 +36,3 @@ Mobile phones have revolutionized the way we purchase products online, making al
 However, it is difficult to read all the feedback for a particular item especially for the popular items with many comments. In this project, we will attempt to understand the factors that contribute to classifying reviews as positive or negative 
 We will be using Natural language processing to analyze the sentiment (positive or a negative) of the given review. A sample web application is integrated to the model built
 
-Technical Architecture:
-![1](https://github.com/CallmeAk/Amazon-mobile-phone-Reviews/assets/81158149/0e412dfb-b77e-4378-b8a5-3cb3774ac57c)
